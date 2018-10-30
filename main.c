@@ -148,8 +148,6 @@ main () {
 		}
 		usleep(100);
 	}
-	
-	fclose(fp0);
 
 	return 0;
 }
